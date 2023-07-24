@@ -1,0 +1,21 @@
+{
+  "name": "stackblitz-starters-azdm8y",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@types/react": ">=16.14.8",
+    "react": "18.2.0",
+    "react-bootstrap": "^2.8.0",
+    "react-dom": "18.2.0",
+    "react-router-dom": "^6.14.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
